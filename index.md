@@ -2,7 +2,7 @@
 
 I'm a relaxed person, looking for learn more, and available to do my best contribute to a good team environment. 
 
-[Linkedin](https://www.linkedin.com/in/pmpsilva/) | [pmpsilva2@gmail.com](mailto:pmpsilva2@gmail.com) | [GitHub](https://github.com/pmpsilva) 
+[Linkedin](https://www.linkedin.com/in/pmpsilva/) | [pmpsilva2@gmail.com](mailto:pmpsilva2@gmail.com) | [GitHub](https://github.com/pmpsilva) | [PDF Version](/images/PedroSilva.pdf)
 
 ## WORK EXPERIENCE
 
@@ -20,8 +20,6 @@ businesses to make the world smarter_
 - Docker
 - GitLab
 - MysQL/Postgres
-- 
----
 
 ### Full Stack Java Developer [Letshare](https://www.letshare.com/)
 
@@ -39,8 +37,6 @@ a customer application to provide new functionalities.
 - Kotlin - creation of services to integrate with a
 third party applications.
 
----
-
 ### Cobol Developer at [Tecnocom/ Santander](https://www.santander.pt/)
 
 **04/2016 - 03/2017 on Algés**
@@ -51,8 +47,6 @@ third party applications.
 - Changing existing programs to support data for new
   accounts. 
 - DB2.
-
----
 
 ## EDUCATION
 
@@ -67,21 +61,16 @@ _Academic projects_
 - Ending Project - Platform to the management of an online newspaper - PHP(Laravel) MySql.
 - CMU - Android app to see points on interest based on google maps (Java SQLite).
 
----
-
 ###PERSONAL PROJECTS
 
 **Tax APi (12/2019 - 01/2020)**
 
 _Creation of a Spring Boot project to manage Taxes, Countries, and Languages available for being used on an application, database in PostgreSQL._
 
----
-
 ###LANGUAGES
 
 - Portuguese - Native
 - English - Independent user
----
 
 ###INTERESTS
 
