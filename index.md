@@ -50,7 +50,7 @@ third party applications.
 
 ## EDUCATION
 
-###Computer Engineering at Escola Superior de Tecnologia e Gestão Politécnico do Porto
+### Computer Engineering at Escola Superior de Tecnologia e Gestão Politécnico do Porto
 
 **09/2010 - 12/2016**
 
