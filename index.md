@@ -1,37 +1,73 @@
-## My digital CV
+## Hellow World!
 
-You can use the [editor on GitHub](https://github.com/pmpsilva/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a relaxed person, looking for learn more, and available to do my best contribute to a good team environment. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linkedin](https://www.linkedin.com/in/pmpsilva/) | [pmpsilva2@gmail.com](mailto:pmpsilva2@gmail.com) | [GitHub](https://github.com/pmpsilva) 
+## WORK EXPERIENCE
 
-### Markdown
+### Software Engineer at [Truphone](https://www.truphone.com/)
+**02/2020 - Present on Oeiras**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Truphone engineers better connections between things, people and
+businesses to make the world smarter_
 
-```markdown
-Syntax highlighted code block
+**Achievements/Tasks**
+- Spring Boot
+- Go Lang 
+- Docker
+- GitLab
+- MysQL/Postgres
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Full Stack Java Developer [Letshare](https://www.letshare.com/)
+**04/2017 - 01/2020 on Lisbon**
 
-- Bulleted
-- List
+_Event Management Solution_
 
-1. Numbered
-2. List
+**Achievements/Tasks**
+- Full-stack developer - implementation of new
+functionalities, corrections. 
+- Support - Bug fixing and corrections. 
+- Spring Boot - creation of a web service to integrate with
+a customer application to provide new functionalities. 
+- Kotlin - creation of services to integrate with a
+third party applications.
+---
 
-**Bold** and _Italic_ and `Code` text
+### Cobol Developer at [Tecnocom/ Santander](https://www.santander.pt/)
+**04/2016 - 03/2017 on Algés**
 
-[Link](url) and ![Image](src)
-```
+**Achievements/Tasks**
+- Development of new Cobol programs. 
+- Changing existing programs to support data for new
+  accounts. 
+- DB2.
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## EDUCATION
+###Computer Engineering
+####Escola Superior de Tecnologia e Gestão Politécnico do Porto
+**09/2010 - 12/2016**
 
-### Jekyll Themes
+_Academic projects_
+- Ending Project - Platform to the management of an online newspaper - PHP(Laravel) MySql.
+- CMU - Android app to see points on interest based on google maps (Java SQLite).
+---
+###PERSONAL PROJECTS
+**Tax APi (12/2019 - 01/2020)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmpsilva/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Creation of a Spring Boot project to manage Taxes, Countries, and Languages available for being used on an application, database in PostgreSQL._
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+###LANGUAGES
+- Portuguese - Native
+- English - Independent user
+---
+###INTERESTS
+- Codding 
+- Gaming 
+- Cinema 
+- Photography
+- Football 
+- Traveling 
+- Coffee
