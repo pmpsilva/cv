@@ -6,12 +6,11 @@ I'm a relaxed person, looking for learn more, and available to do my best contri
 
 ## WORK EXPERIENCE
 
-### Software Engineer at [Truphone](https://www.truphone.com/)
+### Software Engineer at [1GLOBAL](https://www.1global.com/)
 
-**02/2020 - Present on Oeiras**
+**02/2020 - Present on Lisbon**
 
-_Truphone engineers better connections between things, people and
-businesses to make the world smarter_
+_At 1GLOBAL, we believe that everyone should have access to connectivity and that communication has the power to bridge gaps in the world_
 
 **Achievements/Tasks**
 
