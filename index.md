@@ -1,6 +1,7 @@
 ## Hello World!
 
-I'm a relaxed person, looking for learn more, and available to do my best contribute to a good team environment. 
+I'm a relaxed person, looking to learn more, and available to do my best to contribute to a good team environment. 
+ 
 
 [Linkedin](https://www.linkedin.com/in/pmpsilva/) | [pmpsilva2@gmail.com](mailto:pmpsilva2@gmail.com) | [GitHub](https://github.com/pmpsilva) | [PDF Version](/images/PedroSilva.pdf)
 
@@ -10,15 +11,20 @@ I'm a relaxed person, looking for learn more, and available to do my best contri
 
 **02/2020 - Present on Lisbon**
 
-_At 1GLOBAL, we believe that everyone should have access to connectivity and that communication has the power to bridge gaps in the world_
+_1GLOBAL is a global specialty telecommunication services provider
+ serving financial institutions, business enterprises, mobile network
+ operators, connected device manufacturers and consumers. _
 
 **Achievements/Tasks**
 
 - Spring Boot
 - Go Lang 
 - Docker
+- K8s
 - GitLab
 - MysQL/Postgres
+- Jira
+- Confluence
 
 ### Full Stack Java Developer [Letshare](https://www.letshare.com/)
 
