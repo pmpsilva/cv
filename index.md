@@ -13,7 +13,7 @@ I'm a relaxed person, looking to learn more, and available to do my best to cont
 
 _1GLOBAL is a global specialty telecommunication services provider
  serving financial institutions, business enterprises, mobile network
- operators, connected device manufacturers and consumers. _
+ operators, connected device manufacturers and consumers._
 
 **Achievements/Tasks**
 
